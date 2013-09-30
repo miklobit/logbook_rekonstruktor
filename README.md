@@ -1,4 +1,4 @@
-geocache-log-reconstructor
+Geocache log reconstructor
 ==========================
 
 Reprint lost geocache logbook from gpx file.
