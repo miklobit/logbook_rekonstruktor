@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="OpenCachingPL" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd http://www.gsak.net/xmlv1/5 http://www.gsak.net/xmlv1/5/gsak.xsd" xmlns="http://www.topografix.com/GPX/1/0"> 
+	<name>Cache Listing Generated from Opencaching.pl</name>
+	<desc>Cache Listing Generated from Opencaching.pl </desc>
+	<author>OpenCaching.PL</author>
+	<email>ocpl@opencaching.pl</email>
+	<url>http://www.opencaching.pl</url>
+	<urlname>Opencaching.pl - Geocaching w Polsce</urlname>
+	<time>2011-09-01T09:48:19Z</time>
+	<keywords>cache, geocache</keywords>
+
+	<wpt lat="50.42353" lon="18.39118">
+		<time>2010-10-31T00:00:00Z</time>
+		<name>OP2E99</name>
+		<desc>MB08 A4 MOP Chechlo by miklobit, Traditional Cache (1/1)</desc>
+		<url>http://www.opencaching.pl/viewcache.php?cacheid=11933</url>
+		<urlname>MB08 A4 MOP Chechlo by miklobit, Traditional Cache</urlname>
+		<sym>Geocache</sym>
+		<type>Geocache|Traditional Cache</type>
+		<groundspeak:cache id="11933" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+			<groundspeak:name>MB08 A4 MOP Chechlo</groundspeak:name>
+			<groundspeak:placed_by>miklobit</groundspeak:placed_by>
+			<groundspeak:owner id="1486">miklobit</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:difficulty>1</groundspeak:difficulty>
+			<groundspeak:terrain>1</groundspeak:terrain>
+			<groundspeak:country>Polska</groundspeak:country>
+			<groundspeak:state>Śląskie</groundspeak:state>
+			<groundspeak:short_description html="False">Skrzynka przy Autostradzie A4 - MOP Chechlo</groundspeak:short_description>
+			<groundspeak:long_description html="True">
+
+
+
+Szybka skrzynka dla jadacych autostrada A4 na odcinku Wroclaw -&amp;gt; Katowice.
+
+Skrzynka umieszczona jest na terenie MOP Chechlo.
+
+Prosze o ostrozne podejmowanie - teren MOP jest monitorowany przez kamery.
+
+Nalezy zapisac sobie haslo podane w logbook'u - nie jest wymagane aby wpisac sie do logu ale moze przydac sie w przyszlosci, kiedy skrzynka stanie sie etapem wiekszego projektu.
+
+Skrzynka jest wyposazona w logbook i olowek. Na pierwszego znalazce czeka rowniez certyfikat FTF.
+
+
+
+&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/B7F17FF5-6BEE-2904-C8C2-A3F047E3AB78.jpg"&gt;&lt;br&gt;Od strony A4&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/889C1E12-7CB4-CEE3-8D1A-6F23C1549D3B.jpg"&gt;&lt;br&gt;5m od skrzynki&lt;br&gt;&lt;br&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>Usiadz przy stole.</groundspeak:encoded_hints>
+			<groundspeak:logs>
+			<groundspeak:log id="1"><groundspeak:date>2011-09-01T09:48:19Z</groundspeak:date><groundspeak:finder id="0">SYSTEM</groundspeak:finder><groundspeak:text encoded="False">Atrybuty: Szybka skrzynka | Mozna zabrac dzieci | Dostepna dla niepelnosprawnych | Przyczepiona magnesem | 
+Ocena skrzynki: dobra
+</groundspeak:text></groundspeak:log>
+
+				<groundspeak:log id="404620">
+        			<groundspeak:date>2011-08-28T23:08:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="29741">kiwinka</groundspeak:finder>
+					<groundspeak:text encoded="False">kulturalne podejscie do stolika...szybko podjeta, super schowana TFTC :)
+
+Yvonka i Endryu
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="404528">
+        			<groundspeak:date>2011-08-28T18:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="30061">aila</groundspeak:finder>
+					<groundspeak:text encoded="False">Fajna, szybka skrzyneczka 
+
+TFTC!! 
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="403535">
+        			<groundspeak:date>2011-08-26T19:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="33346">art_bi</groundspeak:finder>
+					<groundspeak:text encoded="False">19:30 - Szybka skrzyneczka. Pelna kultura: wygodnie, sucho, czysto. ;)
+
+TFTC!
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="401836">
+        			<groundspeak:date>2011-08-26T07:25:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="33407">Silent A</groundspeak:finder>
+					<groundspeak:text encoded="False">Skrzynka ekspresowa. podjeta bez problemu.
+
+Troche wiecej zieleni niz na zdjeciach wiec calkiem dobrze oslania. Wygodna skrzynka - nie trzeba sie meczyc przy wpisie do loga (kto byl to wie, kto nie byl zobaczy).
+
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="399975">
+        			<groundspeak:date>2011-08-23T12:25:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9256">kubal</groundspeak:finder>
+					<groundspeak:text encoded="False">Ostatnia nasza z serii!!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="383858">
+        			<groundspeak:date>2011-08-07T23:45:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="23223">Zioło</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona w drodze Chorzowa z rodzicami, Dzieki za kesza</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="383306">
+        			<groundspeak:date>2011-08-07T21:09:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="14674">mziolko</groundspeak:finder>
+					<groundspeak:text encoded="False">W drodze do wesolego miasteczka do Chorzowa. Dzieki za kesza
+
+Pozdrowienia
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="384659">
+        			<groundspeak:date>2011-08-07T16:27:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9067">Łza + Ela (drużyna MTB)</groundspeak:finder>
+					<groundspeak:text encoded="False">Strasznie lalo i byly korki. nawet na MOPie. kesz podjety blyskawicznie. Dzieki i pozdrowienia!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="383569">
+        			<groundspeak:date>2011-08-06T15:45:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="28027">SlaMar78</groundspeak:finder>
+					<groundspeak:text encoded="False">(15:45:19/fwgb) TFTC! W drodze z urolpu do rodzinki - brajan74</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="383879">
+        			<groundspeak:date>2011-08-04T20:15:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24748">Husky-PL</groundspeak:finder>
+					<groundspeak:text encoded="False">Przy tym keszu stracilismy najwiecej czasu, bo lawke oblegali Holendrzy z grillem. Kiedy udali sie na chwile do swojego samochodu wtedy Aricja przeprowadzila atak na skrzyneczke. Niestety z odlozeniem bylo jeszcze trudniej, bo Holendrzy przystapili do konsupcji kielbasek. Wzielismy ich na przeczekanie i odlozenie skrzynki odbylo sie ekspresowo. TFTC.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="384015">
+        			<groundspeak:date>2011-08-04T12:56:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24745">degrindolada</groundspeak:finder>
+					<groundspeak:text encoded="False">Kolejny kesz podczas naszej podrozy tym razem przekoda w postaci obcokrajowcow okupujacych lawke. To byla dobra lekcja cierpliwosci;)</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="390110">
+        			<groundspeak:date>2011-08-04T10:16:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="32773">aricja</groundspeak:finder>
+					<groundspeak:text encoded="False">ach te grille zawsze ich nie lubilam! ;p dzieki!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="375185">
+        			<groundspeak:date>2011-07-29T12:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="16826">afrotel</groundspeak:finder>
+					<groundspeak:text encoded="False">szybko i bez bolesnie :)
+
+Pozdrawiam
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="365279">
+        			<groundspeak:date>2011-07-15T15:50:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="29506">marcin212</groundspeak:finder>
+					<groundspeak:text encoded="False">Szybko znaleziona. Haslo zpisane. TFTC!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="364795">
+        			<groundspeak:date>2011-07-14T17:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="13869">brajan74</groundspeak:finder>
+					<groundspeak:text encoded="False">Deszcz padal. wiec pusto bylo przy lawkach.
+
+Dzieki!
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="378182">
+        			<groundspeak:date>2011-07-10T15:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="1352">tboniasty</groundspeak:finder>
+					<groundspeak:text encoded="False">Przegladam mape, patrze i patrze, a tu skrzynka, ktora znalazlem, a jej znalezienia nie odnotowalem :-) Uzupelniam zatem zalegly wpis...
+
+Fajnie schowana. Podjeta szybko i sprawnie, w drodze do Plejady ;-)
+
+TFTC!
+
+tboniasci
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="361547">
+        			<groundspeak:date>2011-07-09T20:50:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="21149">author</groundspeak:finder>
+					<groundspeak:text encoded="False">Trzeba bylo sie nakombinowac, zeby skrzynke podjac bezpiecznie bo w okresie wakacyjnym na MOP'ach&amp;nbsp;sa tlumy. 
+
+Uklomiki
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="359434">
+        			<groundspeak:date>2011-07-04T21:43:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24463">fishu</groundspeak:finder>
+					<groundspeak:text encoded="False">Szybko i sprawnie bo deszcz nie pozwolil na zbyt dlugi postoj. Pozdrawiamy.
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="359492">
+        			<groundspeak:date>2011-07-04T19:35:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24462">m2m</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona w strugach deszczu - dzieki za skrzynke :)</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="351379">
+        			<groundspeak:date>2011-06-25T13:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="28843">kukuś</groundspeak:finder>
+					<groundspeak:text encoded="False">Szybciutko i bezproblemowo!
+
+No trade!&amp;nbsp; TFTC!&amp;nbsp;&amp;nbsp; Pozdrawiam!
+
+kukus</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="351271">
+        			<groundspeak:date>2011-06-19T14:43:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10737">freney</groundspeak:finder>
+					<groundspeak:text encoded="False">Nie moglem sobie odpuscic tego Drive-Ina przejezdzajac obok &amp;nbsp;
+
+TFTC
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="346634">
+        			<groundspeak:date>2011-06-18T19:24:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10992">Tati</groundspeak:finder>
+					<groundspeak:text encoded="False">W drodze z Opola, znaleziona przez Michala,
+
+Dzieki i pozdrawiam, Tatiana
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="346624">
+        			<groundspeak:date>2011-06-18T19:10:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="19738">19Miki99</groundspeak:finder>
+					<groundspeak:text encoded="False">Podczas powrotu ze zlotu :) Szybko znaleziony kesz. Ostatnia dzisiaj skrzynka ;)
+
+TFTC ;)
+
+Pozdrawiam
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="339533">
+        			<groundspeak:date>2011-06-06T19:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="28216">luftmause</groundspeak:finder>
+					<groundspeak:text encoded="False">mila skrzynka z przerwa na popas. TFTC.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="339147">
+        			<groundspeak:date>2011-06-05T20:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24076">GFS</groundspeak:finder>
+					<groundspeak:text encoded="False">Szybko i bardzo milo.
+
+Dzieki.
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="336135">
+        			<groundspeak:date>2011-05-28T16:22:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="25406">Magda.lena</groundspeak:finder>
+					<groundspeak:text encoded="False">jak w podpowiedzi :) szybko aby sie towarzysze podrozy nie denerwowali :)
+
+Dziekuje i pozdrawiam :)&amp;nbsp;
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="321602">
+        			<groundspeak:date>2011-05-07T16:18:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="27785">rad</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona podczas przerwy kawowej.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="319025">
+        			<groundspeak:date>2011-05-03T22:51:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="18701">Wookhash</groundspeak:finder>
+					<groundspeak:text encoded="False">znaleziona</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="319758">
+        			<groundspeak:date>2011-05-03T21:16:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="21173">Basiaczek</groundspeak:finder>
+					<groundspeak:text encoded="False"></groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="308722">
+        			<groundspeak:date>2011-04-18T19:32:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="12">woytas</groundspeak:finder>
+					<groundspeak:text encoded="False">Dzisiaj</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="298459">
+        			<groundspeak:date>2011-03-27T21:09:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="8495">RobertM</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona z dzielnym krakowskim zespolem.
+Pozdrawiamy Wiola i Robert Podroze male i duze</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="298203">
+        			<groundspeak:date>2011-03-27T13:16:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="433">bogobig</groundspeak:finder>
+					<groundspeak:text encoded="False">Jak to milo wpisywac sie po Nannetce i Dogu. Dzieki.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="336875">
+        			<groundspeak:date>2011-03-27T13:03:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="1538">Chat Noir</groundspeak:finder>
+					<groundspeak:text encoded="False">Bylem i ja w ekipie :-)</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="297202">
+        			<groundspeak:date>2011-03-27T11:40:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="169">elales</groundspeak:finder>
+					<groundspeak:text encoded="False">Dzieki za kesza.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="293639">
+        			<groundspeak:date>2011-03-20T23:24:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="20031">Doc_with_the_dog</groundspeak:finder>
+					<groundspeak:text encoded="False">W drodze powrotnej z topienia Marzanny. Po rekonesansie wszystkich stolow wreszcie wymacana :)
+
+TFTC
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="293637">
+        			<groundspeak:date>2011-03-20T20:02:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="14711">Nannette</groundspeak:finder>
+					<groundspeak:text encoded="False">Ojj bylam juz zmeczona ale resztki motywacji wziely gore. W ramach Krapkowickiego topienia i palenia Marzanny... Pozdrowienia dla opolskich braci!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="288838">
+        			<groundspeak:date>2011-03-04T16:40:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="5923">KrystianT</groundspeak:finder>
+					<groundspeak:text encoded="False">Weekendowy wypad na narty i nietylko...</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="283297">
+        			<groundspeak:date>2011-02-19T08:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="21165">Stryker</groundspeak:finder>
+					<groundspeak:text encoded="False">O osmej rano, w drodze do Wisly. Dzieki!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="283009">
+        			<groundspeak:date>2011-02-18T08:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24959">MichałR</groundspeak:finder>
+					<groundspeak:text encoded="False">Razem z Tata
+
+Michal
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="283000">
+        			<groundspeak:date>2011-02-18T08:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24434">Klaudiusz</groundspeak:finder>
+					<groundspeak:text encoded="False">W drodze do Krakowa 
+
+Pozdrawiam Klaudiusz
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="266797">
+        			<groundspeak:date>2010-11-25T09:23:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="7699">etna&amp;mars</groundspeak:finder>
+					<groundspeak:text encoded="False">Ciemna noca znaleziona, podczas powrotu do domu. Mroz taki, ze za dlugo to sie nie chcialo siedziec. Dziekujemy za skrzynke. Pozdrawiamy. Ania i Marcin
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="262220">
+        			<groundspeak:date>2010-11-13T22:58:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9981">Syn dziadka</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona :)
+
+Niestety to juz ostatnia skrzyneczka MOPOWA tego dnia.&amp;nbsp;
+
+Dziekuje i pozdrawiam
+
+Piotrek
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="263336">
+        			<groundspeak:date>2010-11-11T13:29:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="1769">Żywcu</groundspeak:finder>
+					<groundspeak:text encoded="False">W ramach akcji eventowej - Kopalniokowo-Hawajskiej'2010
+Dzieki za kesza i Zywieckie pozdrowienia.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="258544">
+        			<groundspeak:date>2010-11-05T22:20:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="970">Bazyl69</groundspeak:finder>
+					<groundspeak:text encoded="False">320km autostrada i jako ostatnia dzisiaj zaliczona
+
+&amp;nbsp;
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="258319">
+        			<groundspeak:date>2010-11-04T17:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10466">hanka_</groundspeak:finder>
+					<groundspeak:text encoded="False">FTF! Razem z M&amp;amp;S :)W drodze powrotnej do domu :)TFTC!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="258352">
+        			<groundspeak:date>2010-11-04T17:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="3626">Set</groundspeak:finder>
+					<groundspeak:text encoded="False">FTF wraz z Hanka_
+
+Szybko i sprawnie... 
+
+TFTC
+
+Mezon &amp;amp; Set
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="256903">
+        			<groundspeak:date>2010-11-01T14:46:00Z</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder id="1769">Żywcu</groundspeak:finder>
+					<groundspeak:text encoded="False">A dwie godziny temu, tam bylem </groundspeak:text>
+				</groundspeak:log>
+
+
+			</groundspeak:logs>
+			<groundspeak:travelbugs>
+			
+			</groundspeak:travelbugs>
+		</groundspeak:cache>
+	</wpt>
+	
+
+	<wpt lat="50.31140" lon="18.55073">
+		<time>2010-11-13T00:00:00Z</time>
+		<name>OP2F33</name>
+		<desc>MB13 A4 MOP Rachowice by miklobit, Traditional Cache (1.5/1)</desc>
+		<url>http://www.opencaching.pl/viewcache.php?cacheid=12087</url>
+		<urlname>MB13 A4 MOP Rachowice by miklobit, Traditional Cache</urlname>
+		<sym>Geocache</sym>
+		<type>Geocache|Traditional Cache</type>
+		<groundspeak:cache id="12087" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+			<groundspeak:name>MB13 A4 MOP Rachowice</groundspeak:name>
+			<groundspeak:placed_by>miklobit</groundspeak:placed_by>
+			<groundspeak:owner id="1486">miklobit</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:difficulty>1.5</groundspeak:difficulty>
+			<groundspeak:terrain>1</groundspeak:terrain>
+			<groundspeak:country>Polska</groundspeak:country>
+			<groundspeak:state>Śląskie</groundspeak:state>
+			<groundspeak:short_description html="False">Skrzynka przy Autostradzie A4 - MOP Rachowice/Kozlow</groundspeak:short_description>
+			<groundspeak:long_description html="True">
+
+Szybka skrzynka drive-in dla jadacych autostrada A4 na odcinku Wroclaw &amp;lt;-&amp;gt; Katowice.
+
+Skrzynka umieszczona jest na terenie MOP Rachowice ( kierunek Katowice ), ale mozna tez podjac ja z przeciwnego kierunku - zatrzymujac sie w MOP Kozlow i przechodzac tunelem pod A4.
+
+Prosze o ostrozne podejmowanie - teren MOP jest monitorowany przez kamery.
+
+Nalezy zapisac sobie haslo podane w logbook'u - nie jest wymagane aby wpisac sie do logu ale moze przydac sie w przyszlosci, kiedy skrzynka stanie sie etapem wiekszego projektu.
+
+Skrzynka jest wyposazona w logbook i olowek.  Na pierwszego znalazce czeka certyfikat FTF.
+
+&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/212A07FD-DDE1-3B2F-BB53-C0CA491BA6FB.jpg"&gt;&lt;br&gt;Niedaleko punktu zero&lt;br&gt;&lt;br&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>Na pieterku...</groundspeak:encoded_hints>
+			<groundspeak:logs>
+			<groundspeak:log id="1"><groundspeak:date>2011-09-01T09:48:19Z</groundspeak:date><groundspeak:finder id="0">SYSTEM</groundspeak:finder><groundspeak:text encoded="False">Atrybuty: Szybka skrzynka | Przyczepiona magnesem | 
+Ocena skrzynki: dobra
+</groundspeak:text></groundspeak:log>
+
+				<groundspeak:log id="404623">
+        			<groundspeak:date>2011-08-28T23:11:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="29741">kiwinka</groundspeak:finder>
+					<groundspeak:text encoded="False">jak dobrze ze Endryu nigdy sie nie poddaje, to bylo drugie podejscie, nie zatrzymal go glod, noc i ziab ale zostala zdobyta a potem ...Big Mac w nagrode  TFTC!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="404537">
+        			<groundspeak:date>2011-08-28T19:35:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="30061">aila</groundspeak:finder>
+					<groundspeak:text encoded="False">TFTC!  </groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="404933">
+        			<groundspeak:date>2011-08-26T16:20:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="20530">doomspawn</groundspeak:finder>
+					<groundspeak:text encoded="False">Pomimo ogromnego upalu ceche znaleziony. Dobrze, ze jest klima w mcd:D Dzieki:)
+
+M&amp;amp;R
+
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="384421">
+        			<groundspeak:date>2011-08-07T16:46:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9067">Łza + Ela (drużyna MTB)</groundspeak:finder>
+					<groundspeak:text encoded="False">kiedys smigalem ta trasa 40 tonowym, 480-konnym Stralisem dwa razy w miesiacu.. to byly czasy. Dzis pomykalismy jakims malenstwem w drodze powrtonej ze Szklarskiej Poreby. Dzieki za keszyka.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="383884">
+        			<groundspeak:date>2011-08-04T21:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24748">Husky-PL</groundspeak:finder>
+					<groundspeak:text encoded="False">Ostatnia dziejszego wieczoru z serii autostradowej. Sprytnie ukryta. TFTC.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="383870">
+        			<groundspeak:date>2011-08-04T10:59:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24745">degrindolada</groundspeak:finder>
+					<groundspeak:text encoded="False">Ostatnia w tegodniowej podrozy:) Podziekowania dla autora za ta serie:) We wrzesniu planowany wyjazd w bieszczady mam nadzieje zdobyc wtedy reszte MOPow:)))</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="390122">
+        			<groundspeak:date>2011-08-04T10:20:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="32773">aricja</groundspeak:finder>
+					<groundspeak:text encoded="False">i tak zamiast 2 godzin w trasie spedzilismy 3,5 godziny, ostatni z serii. dzieki (:</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="365281">
+        			<groundspeak:date>2011-07-15T15:54:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="29506">marcin212</groundspeak:finder>
+					<groundspeak:text encoded="False">Haselko zpisane. TFTC!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="361467">
+        			<groundspeak:date>2011-07-09T23:31:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="21165">Stryker</groundspeak:finder>
+					<groundspeak:text encoded="False">W drodze powrotnej z Mikolowa. Szybka skrzynka, bez wymiany!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="359432">
+        			<groundspeak:date>2011-07-04T21:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24463">fishu</groundspeak:finder>
+					<groundspeak:text encoded="False">Bylo troche wspinaczki po mokrym zboczu ale bylo warto, widok ciekawy - choc nie bylo nam dane podziwiac w pelnym sloncu. TFTC.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="359494">
+        			<groundspeak:date>2011-07-04T13:36:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="24462">m2m</groundspeak:finder>
+					<groundspeak:text encoded="False">Ostatni MOP tego dnia. Dzieki za serie, braki bedziemy musieli uzupelnic kiedys podczas jazdy w druga strone. Pozrowienia!!!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="351382">
+        			<groundspeak:date>2011-06-25T14:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="28843">kukuś</groundspeak:finder>
+					<groundspeak:text encoded="False">Szybciutko i bezproblemowo!
+
+No trade!&amp;nbsp; TFTC!&amp;nbsp;&amp;nbsp; Pozdrawiam!
+
+kukus</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="346525">
+        			<groundspeak:date>2011-06-18T17:20:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="19738">19Miki99</groundspeak:finder>
+					<groundspeak:text encoded="False">Pierwsza dzisiaj, maly przystanek podczas drogi na Zlot O,pole 2011.
+
+TFTC :)
+
+Pozdrawiam
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="346432">
+        			<groundspeak:date>2011-06-18T14:26:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10992">Tati</groundspeak:finder>
+					<groundspeak:text encoded="False">Pierwszy kesz znaleziony w dniu dzisiejszym w drodze na opolski zlot.
+
+&amp;nbsp;
+
+Dzieki i pozdrawiam, Tatiana
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="343202">
+        			<groundspeak:date>2011-06-12T13:20:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="21149">author</groundspeak:finder>
+					<groundspeak:text encoded="False">W trakcie wycieczki MTB. 
+
+Ukloniki
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="336142">
+        			<groundspeak:date>2011-05-28T17:26:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="25406">Magda.lena</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona w deszczu, a ze nie bylo tak latwo troche zmoklam:)
+
+Dziekuje i pozdrawiam :)
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="319026">
+        			<groundspeak:date>2011-05-03T22:54:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="18701">Wookhash</groundspeak:finder>
+					<groundspeak:text encoded="False">wcale nie taka latwa tym razem</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="319761">
+        			<groundspeak:date>2011-05-03T22:17:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="21173">Basiaczek</groundspeak:finder>
+					<groundspeak:text encoded="False"></groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="301302">
+        			<groundspeak:date>2011-04-03T22:59:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10737">freney</groundspeak:finder>
+					<groundspeak:text encoded="False">Pit Stop w sam raz na przerwe w keszowaniu  
+
+TFTC
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="298461">
+        			<groundspeak:date>2011-03-27T21:12:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="8495">RobertM</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona z dzielnym krakowskim zespolem.
+Pozdrawiamy Wiola i Robert Podroze male i duze</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="298202">
+        			<groundspeak:date>2011-03-27T13:10:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="433">bogobig</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona na zakonczenie wyjazdu weekendowego. Na zmeczonego kierowce, nawet nie trzeba bylo zbytnio udawac. Dziekuje za kesza.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="336877">
+        			<groundspeak:date>2011-03-27T13:04:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="1538">Chat Noir</groundspeak:finder>
+					<groundspeak:text encoded="False">Bylem i ja w ekipie :-)</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="297204">
+        			<groundspeak:date>2011-03-27T11:56:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="169">elales</groundspeak:finder>
+					<groundspeak:text encoded="False">Ostatnia w tej podrozy. Dzieki za kesza.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="293644">
+        			<groundspeak:date>2011-03-20T23:25:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="20031">Doc_with_the_dog</groundspeak:finder>
+					<groundspeak:text encoded="False">Trzecie z serii MOP. calkiem mila rozrywka w trakcie trasy :)
+
+TFTC
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="293641">
+        			<groundspeak:date>2011-03-20T20:15:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="14711">Nannette</groundspeak:finder>
+					<groundspeak:text encoded="False">Ostatni kesz dzisiejszego dnia. 
+
+Schodki sa zadziwiajace..jakby je ktos do kesza wybudowal. W ramach Krapkowickiego topienia i palenia Marzanny... Pozdrowienia dla opolskich braci!
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="284926">
+        			<groundspeak:date>2011-02-21T11:48:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="5923">KrystianT</groundspeak:finder>
+					<groundspeak:text encoded="False">Hmm, jak czytalem wskazowke kodowana to myslalem, ze bedzie nizej... ale kordy pokazaly wlasciwe miejsce.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="283909">
+        			<groundspeak:date>2011-02-20T23:13:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10466">hanka_</groundspeak:finder>
+					<groundspeak:text encoded="False">Ostatnia na dzis.TFTC! :)</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="327565">
+        			<groundspeak:date>2011-02-20T18:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="3626">Set</groundspeak:finder>
+					<groundspeak:text encoded="False">Dzis  wraz z hanka
+TFTC
+Mezon &amp;amp; Set</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="277817">
+        			<groundspeak:date>2011-01-29T16:04:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="1769">Żywcu</groundspeak:finder>
+					<groundspeak:text encoded="False">Za bardzo, to sobie nie pokeszowalismy, bylismy w pelnym skladzie i Ala nas troche poganiala.
+Jednak przez weekend, cztery skrzyneczki udalo sie podjac.
+Dzieki za kesz - Zywiecko pozdrawiamy!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="277811">
+        			<groundspeak:date>2011-01-29T16:04:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="22799">Olafek</groundspeak:finder>
+					<groundspeak:text encoded="False">Dziekuje! Olaf.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="266791">
+        			<groundspeak:date>2010-11-24T09:09:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="7699">etna&amp;mars</groundspeak:finder>
+					<groundspeak:text encoded="False">Nawet STF nam sie trafil:) Miejsce ukrycia dosc eksponowane, ale raczej skrzynka nie powinna zostac zdekonspirowana. Znaleziona w drodze na zachod, po przejsciu tunelem. Dzieki za skrzynke. Pozdrawiamy. Ania i Marcin
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="262671">
+        			<groundspeak:date>2010-11-14T10:59:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="970">Bazyl69</groundspeak:finder>
+					<groundspeak:text encoded="False">Szybki poranny zryw i FTF w rekach Bazylka</groundspeak:text>
+				</groundspeak:log>
+
+
+			</groundspeak:logs>
+			<groundspeak:travelbugs>
+			
+			</groundspeak:travelbugs>
+		</groundspeak:cache>
+	</wpt>
+	
+
+	<wpt lat="50.22410" lon="19.16885">
+		<time>2009-03-29T00:00:00Z</time>
+		<name>OP17D8</name>
+		<desc>Twierdza Armii Poludnie by miklobit, Traditional Cache (5/5)</desc>
+		<url>http://www.opencaching.pl/viewcache.php?cacheid=6106</url>
+		<urlname>Twierdza Armii Poludnie by miklobit, Traditional Cache</urlname>
+		<sym>Geocache</sym>
+		<type>Geocache|Traditional Cache</type>
+		<groundspeak:cache id="6106" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+			<groundspeak:name>Twierdza Armii Poludnie</groundspeak:name>
+			<groundspeak:placed_by>miklobit</groundspeak:placed_by>
+			<groundspeak:owner id="1486">miklobit</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Regular</groundspeak:container>
+			<groundspeak:difficulty>5</groundspeak:difficulty>
+			<groundspeak:terrain>5</groundspeak:terrain>
+			<groundspeak:country>Polska</groundspeak:country>
+			<groundspeak:state>Śląskie</groundspeak:state>
+			<groundspeak:short_description html="False"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;SCISLE TAJNE
+&amp;nbsp; &lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Dowodztwo GeocachingNavySeals .
+&amp;nbsp; &lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Jednostki wywiadowcze odkryly wroga twierdze Armii Poludnie. 
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Na podstawie zdjec satelitarnych okreslono polozenie i wielkosc celu.
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;W celu rozpoznania infrastruktury wykonano rajd jednoosobowa jednostka zwiadowcza.
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Zalaczone fotografie obrazuja teren dzialan .
+&amp;nbsp; &lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;CEL MISJI:
+&amp;nbsp; &lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Przenikniecie na teren Twierdzy
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Opanowanie kluczowych punktow strategicznych
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Zlokalizowanie i dokonanie odpowiednich wpisow w tajnej skrzynce wywiadowczej nalezacej do&amp;nbsp;&amp;nbsp;GeocachingNavySeals &amp;nbsp;pozostawionej na terenie Budynkow Twierdzy przez jednostke zwiadowcza.
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Wycofanie sie z terenow wroga
+&amp;nbsp; &lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Fotografie wykonane przez zwiadowcza jednostke zalozycielska sa jedynym zrodlem pomocy przy odszukaniu CELU GL&amp;Oacute;WNEGO !!!
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;&amp;nbsp;
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Wspolrzedne wskazuja centralny punkt terenu dzialan, nie wskazuja dokladnie celu glownego.
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;&amp;nbsp;
+&lt;p style="margin: 0cm 0cm 0pt" class="MsoNormal"&gt;Spojlery moga mylic !!! Wiec moze warto samemu !!!
+&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/C56B1F11-F655-A030-DF42-27FD0A27B992.jpg"&gt;&lt;br&gt;teren dzialan&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/B7776BB2-61D5-5322-A3C9-7AC241A0CC11.jpg"&gt;&lt;br&gt;...&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/869E4DE5-E731-20B6-13E8-EF9FDA8F8365.jpg"&gt;&lt;br&gt;przestroga&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/DCEBDADB-78CB-C617-CAE0-7E5C75C5FF60.jpg"&gt;&lt;br&gt;...&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/7F5440DA-B8B6-339D-464C-98134DB0D695.jpg"&gt;&lt;br&gt;...&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/4B8DE270-1C35-A069-C91F-0DFF2749017E.jpg"&gt;&lt;br&gt;nie chcecie tego ogladac !!!&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/4F94E24A-D757-9893-5707-0DA5AD950A03.jpg"&gt;&lt;br&gt;niechcecie tego ogladac !!!&lt;br&gt;&lt;br&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>w budynku</groundspeak:encoded_hints>
+			<groundspeak:logs>
+			<groundspeak:log id="1"><groundspeak:date>2011-09-01T09:48:19Z</groundspeak:date><groundspeak:finder id="0">SYSTEM</groundspeak:finder><groundspeak:text encoded="False">Atrybuty: Potrzebna latarka | Wymagany dodatkowy sprzet | Skrzynka niebezpieczna | 
+Ocena skrzynki: znakomita
+Rekomendacje: 4
+</groundspeak:text></groundspeak:log>
+
+				<groundspeak:log id="400241">
+        			<groundspeak:date>2011-08-24T08:47:00Z</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder id="32431">Dymion</groundspeak:finder>
+					<groundspeak:text encoded="False">I znowu Ci malarze </groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="400044">
+        			<groundspeak:date>2011-08-15T23:07:00Z</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder id="9778">Wrzos</groundspeak:finder>
+					<groundspeak:text encoded="False">I kiszka poszukiwania uniemozliwil mecz paintbola.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="379312">
+        			<groundspeak:date>2011-08-03T13:02:38Z</groundspeak:date>
+					<groundspeak:type>Enable Listing</groundspeak:type>
+					<groundspeak:finder id="4158">ronja</groundspeak:finder>
+					<groundspeak:text encoded="False">Skrzynka gotowa do szukania. Powodzenia!</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="375389">
+        			<groundspeak:date>2011-07-29T22:43:00Z</groundspeak:date>
+					<groundspeak:type>Archive</groundspeak:type>
+					<groundspeak:finder id="970">Bazyl69</groundspeak:finder>
+					<groundspeak:text encoded="False">Skrzynka zostala zarchiwizowana.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="347712">
+        			<groundspeak:date>2011-06-20T23:03:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="22927">dags</groundspeak:finder>
+					<groundspeak:text encoded="False">I znowu zupelnie spontaniczna wyprawa na kesze wraz z Mariosami i nowo poznanym teamem thompsonow :)
+
+poszlo w miare szybko ... w miare ;)
+
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="347785">
+        			<groundspeak:date>2011-06-20T21:45:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="26760">Mario&amp;Monia</groundspeak:finder>
+					<groundspeak:text encoded="False">I tu mariosy szukaly chyba z 10 minut.Kordy rozjechane ale w koncu skrzyneczka znaleziona.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="344496">
+        			<groundspeak:date>2011-06-14T18:47:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="26004">tobias099</groundspeak:finder>
+					<groundspeak:text encoded="False">Kolorowe buty zostaly od dolu :)
+
+in: gun-zabawka; out: temperowka
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="317248">
+        			<groundspeak:date>2011-05-02T20:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="19738">19Miki99</groundspeak:finder>
+					<groundspeak:text encoded="False">Bardzo ciekawa miejscowka. Kulek do paintballa bylo pelno, widac ze czesto tu graja. Kesza szybko wypatrzylismy. Lubie takie miejsca.
+
+Dzieki za kesza
+
+Pozdrawiam
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="317126">
+        			<groundspeak:date>2011-05-02T19:19:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="22940">Kondi&amp;Team</groundspeak:finder>
+					<groundspeak:text encoded="False">Fajnie ,ze przy skrzynce jaest pole do pintballa
+
+Bylo barzo duzo kulek ,a sciany byly cale kolorowe od kulek
+
+&amp;nbsp;
+
+Pozdrawiam
+
+&amp;nbsp;
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="312613">
+        			<groundspeak:date>2011-04-25T19:30:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="25054">Thompson</groundspeak:finder>
+					<groundspeak:text encoded="False">Skrzynka znaleziona bez problemow. Swietne, klimatyczne miejsce warte odwiedzenia.
+
+IN: nic
+
+OUT: GK "Druid" GK1679
+
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="312852">
+        			<groundspeak:date>2011-04-25T18:45:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="25053">felc86</groundspeak:finder>
+					<groundspeak:text encoded="False">"...poszlismy na wojne,bo wezwala nas Ojczyzna..." Prawdziwa TWIERDZA.Miejsce warte odwiedzenia,keszyk ukryty bardzo dobrze chociaz spostrzegawczemu  oku nie ujdzie to miejsce obojetnie.Bez wymiany.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="280308">
+        			<groundspeak:date>2011-02-08T18:35:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="21434">Bodzio&amp;Aga</groundspeak:finder>
+					<groundspeak:text encoded="False">PIerwszy keszyk tego wieczoru. Fajne miejsce:)
+
+IN: Temperowka Stopa i GK Druid
+
+OUT: Zapalniczka z butem Marloro
+
+TFTC:)
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="283930">
+        			<groundspeak:date>2011-02-08T17:11:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="18701">Wookhash</groundspeak:finder>
+					<groundspeak:text encoded="False">OUT: wlepy BG
+
+IN: GK KLUCZYK 2 #2
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="270782">
+        			<groundspeak:date>2010-12-27T21:49:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="16846">k.mataforgana</groundspeak:finder>
+					<groundspeak:text encoded="False">mimo trudnych warunkow (zimno i ciemno) znaleziona :) swietnie miejsce
+
+in: kieliszek out: malpka
+
+ 
+
+ps. chyba przydaloby sie wieksze pudelko
+
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="305744">
+        			<groundspeak:date>2010-12-27T17:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="25157">ludi_0</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona. Bez spcjalnych problemow. Fajny klimat po zachodzie slonca.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="181792">
+        			<groundspeak:date>2010-05-05T11:03:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="3187">sebastian</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona. Po resztkach amunicji widac, ze tocza sie tu ostre boje.&amp;nbsp;
+
+NO TRADE
+
+Pozdrawiam i dziekuje - Seba
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="132893">
+        			<groundspeak:date>2009-10-17T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10992">Tati</groundspeak:finder>
+					<groundspeak:text encoded="False">Misja wykonana.Tajna skrzynka zlokalizowana.&amp;nbsp; Wpis aktualizacyjny dokonany. Wymiany brak.TATI
+Dzieki za super zabawe, pozdrawiam, Tatiana :)
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="132834">
+        			<groundspeak:date>2009-10-17T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="11095">aniakalyna</groundspeak:finder>
+					<groundspeak:text encoded="False">Szybka eksploracja obiektow i wsolnymi silami z Tati skrzyneczka podjeta.... Zupelnie nie zgadzam sie ze stwierdzeniem, ze to szukanie igly w stogu siana... Systemowo trzeba misje rozpracowac i wyciaga sie skrzyneczke....
+Bardzo fajny urbeksik, super klimacik
+obecnosci Armii poludnie nie stwierdzono, widac na manewrach zamiejscowych przebywala :)))
+TFTC, pozdrawiam
+Anka
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="127747">
+        			<groundspeak:date>2009-09-27T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Didn't find it</groundspeak:type>
+					<groundspeak:finder id="14169">Carmell</groundspeak:finder>
+					<groundspeak:text encoded="False">Szukanie igly w stogu siana:-(((</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="127627">
+        			<groundspeak:date>2009-09-27T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Didn't find it</groundspeak:type>
+					<groundspeak:finder id="448">Altar</groundspeak:finder>
+					<groundspeak:text encoded="False">Loblukalismy wszystkie katy i zakamarki, niestety, nadaremno. </groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="99694">
+        			<groundspeak:date>2009-06-12T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9639">wdv</groundspeak:finder>
+					<groundspeak:text encoded="False">Klimat! +1 Miejsce +1 Skarby +1 A tak wogole to gwiazdka sie nalezy :) Wielkie dzieki! </groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="93809">
+        			<groundspeak:date>2009-06-12T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9463">Treenode</groundspeak:finder>
+					<groundspeak:text encoded="False">Naprawde super klimat. 
+Ode mnie zielona gwiazda.
+Pozdrawiam 
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="92365">
+        			<groundspeak:date>2009-06-12T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9531">Dobranocka</groundspeak:finder>
+					<groundspeak:text encoded="False">Kapitalne miejsce i klimat. Bogata skrzynka. Ode mnie order zielonej gwiazdy. Misja zakonczona sukcesem. 
+In: ramka, karta skrytobojca, bilet autobusowy, kadzidelko, i (chyba) czysta plyta
+Out: zapalniczka, dzwoneczki 
+Dorzucilismy tez geokreta Ostatni Cesarz 
+Wielkie dzieki :) Pozdrawiamy: Treenode, Wdv i Dobranocka 
+&amp;nbsp;
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="83168">
+        			<groundspeak:date>2009-05-07T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10072">TommyLee</groundspeak:finder>
+					<groundspeak:text encoded="False">Witam. Gen. TommyLee wraz z kompanija ADT GROUP (Ja, Arni, Dymu) melduje odnalezienie skrzyneczki."... Byla godzina 20:05- pomalu tracilismy nadzieje...sciany budynku nosily blizny jeszcze niedawno toczonych walk...zdawaly sie krzyczec! skomlec! glosami poleglych...w powietrzu unosil sie zapach krwi...w zakamarkach budynko znalezc mozna bylo miejsca szczegolne, jakby bastiony, ostatnie linie umocnien, gdzie nieliczni bronily sie resztkami sil, przed atakiem przewazajacych sil wroga... w jednym z takich miejsc znalezlismy kilkanascie chaotycznie rozsypanych naboi, biedny zolnierz, sam broniac sie ostatkiem sil wystrzeliwuje swoj przedostatni magazynek...siega do kieszeni...wyciaga te ostatnie kule- kule ktorym powierza swoje zycie...upada...zablakana kula dosiega jego duszy...+++......" 
+07-05-2009 
+in: malpka, zapalniczka but
+out: mini szalik
+POZDRAWIAM 
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="83137">
+        			<groundspeak:date>2009-05-07T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="10021">Dymu</groundspeak:finder>
+					<groundspeak:text encoded="False">Swietna lokalizacja, ktora warto odwiedzic. Sporo do zwiedzania i szukania
+ADT Group Arni Dymu TommyLee 
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="83126">
+        			<groundspeak:date>2009-05-07T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9992">arni</groundspeak:finder>
+					<groundspeak:text encoded="False">Mistrzowska skrzynka znaleziona tuz przed zmrokiem to trzeba zobaczyc!!!
+ADT Group Arni Dymu TommyLee
+in: malpka, zapalniczka but
+out: mini szalik
+Pozdrawiamy!!! 
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="71859">
+        			<groundspeak:date>2009-03-31T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="7699">etna&amp;mars</groundspeak:finder>
+					<groundspeak:text encoded="False">Date... 03312009 17:40:45 Zulu
+
+Mission code... Sierra Tango Foxtrot
+
+Mission status... accomplished
+
+Team Etna &amp;amp; Mars reports no losses on own or enemy side. Target detected, orders fulfilled.
+
+Sucessfully evac'ed to base. Waiting for new orders.
+
+ 
+
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="71694">
+        			<groundspeak:date>2009-03-30T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="58">Saracen</groundspeak:finder>
+					<groundspeak:text encoded="False">Misja wykonana. Dwoch ochotnikow jako pierwszych melduje wykonanie zadania bez strat wlasnych. Zolnierze armii poludnie zajeci chyba byli zmiana warty, wiec profesjonalnie i niezauwazalnie zdobylismy cel. Uwaga na wszechobecne slady walki, caly teren silnie zaminowany i pelen pulapek.&amp;nbsp; 
+TFTC Saracen Team&amp;nbsp; 
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="147032">
+        			<groundspeak:date>2008-03-30T00:00:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="14711">Nannette</groundspeak:finder>
+					<groundspeak:text encoded="False">Dzieki za skrzyneczke. Pozdrawiam. Nannette</groundspeak:text>
+				</groundspeak:log>
+
+
+			</groundspeak:logs>
+			<groundspeak:travelbugs>
+			
+			</groundspeak:travelbugs>
+		</groundspeak:cache>
+	</wpt>
+	
+
+	<wpt lat="50.13673" lon="19.32705">
+		<time>2010-09-28T00:00:00Z</time>
+		<name>OP2D42</name>
+		<desc>MB01 Na grobli by miklobit, Traditional Cache (1.5/1.5)</desc>
+		<url>http://www.opencaching.pl/viewcache.php?cacheid=11590</url>
+		<urlname>MB01 Na grobli by miklobit, Traditional Cache</urlname>
+		<sym>Geocache</sym>
+		<type>Geocache|Traditional Cache</type>
+		<groundspeak:cache id="11590" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+			<groundspeak:name>MB01 Na grobli</groundspeak:name>
+			<groundspeak:placed_by>miklobit</groundspeak:placed_by>
+			<groundspeak:owner id="1486">miklobit</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Small</groundspeak:container>
+			<groundspeak:difficulty>1.5</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Polska</groundspeak:country>
+			<groundspeak:state>Śląskie</groundspeak:state>
+			<groundspeak:short_description html="False">Grobla na stawach w Jaworznie-Byczynie</groundspeak:short_description>
+			<groundspeak:long_description html="True">Moja pierwsza skrzynka - schowana w kompleksie stawow w Jaworznie-Byczynie. 4 stawy o lacznej powierzchni okolo 5 ha, z czego najwiekszy ma okolo 2,5 ha. Srednia glebokosc na 3 gornych stawach to okolo 1-1,2 m , natomiast wiekszego okolo 1,5 m. Ryby to glownie karp, leszcz, lin, ploc, jaz, wzdrega, okon, szczupak i sandacz.
+
+Skrzynka znaduje sie na pomiedzy rowem odwadniajacym i poczatkiem grobli odzielajacej dwa najwieksze stawy, kilka metrow od sciezki.
+
+Na wyposazeniu skrzynki: logbook/olowek/temperowka (nie  na wymiane), certyfikat FTF, kilka drobiazgow na wymiane.
+
+Polecam spacer do skrzynki w porze zachodu slonca...
+
+Mijesce to jest rowniez dobrym punktem wyjscia zeby zrobic spacer do skrzynki "Pomnik partyzantow"
+
+&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/A278BD11-81CE-83E5-BF90-CFB00BA1D04E.jpg"&gt;&lt;br&gt;Tego szukasz&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/83DF18D6-09FC-1EDA-52A2-57F4EDF808F6.jpg"&gt;&lt;br&gt;Tu zostaw samochod&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/54DCBB5B-CE7D-0AF3-A93A-898D8863C9CA.jpg"&gt;&lt;br&gt;Widok z grobli na zachod&lt;br&gt;&lt;img src="http://www.opencaching.pl/images/uploads/2C661BAB-A72D-B7D3-A0FB-46D47501B492.jpg"&gt;&lt;br&gt;Spoiler&lt;br&gt;&lt;br&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>Szukaj pod lezaca galezia </groundspeak:encoded_hints>
+			<groundspeak:logs>
+			<groundspeak:log id="1"><groundspeak:date>2011-09-01T09:48:19Z</groundspeak:date><groundspeak:finder id="0">SYSTEM</groundspeak:finder><groundspeak:text encoded="False">Atrybuty: Mozna zabrac dzieci | Umiejscowiona na lonie natury, lasy, gory itp | Rekomendacje: 1
+</groundspeak:text></groundspeak:log>
+
+				<groundspeak:log id="387842">
+        			<groundspeak:date>2011-08-12T16:45:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="26213">Marcello002</groundspeak:finder>
+					<groundspeak:text encoded="False">Po wczorajszym rozwaleniu kol w rowerze, dzisiaj udalo mi sie bez trudu dojechac Podjecie odbylo sie bez jakichkolwiek problemow, jedynie chmary komarow nie dawaly czlowiekowi zyc.&amp;nbsp; Sama okolica warta odwiedzenia
+
+Dzieki za kesza
+
+IN: GK (Szczerbulec), krasnal
+
+OUT: Mysz Jerry
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="381942">
+        			<groundspeak:date>2011-08-06T18:55:00Z</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder id="26213">Marcello002</groundspeak:finder>
+					<groundspeak:text encoded="False">Dzisiaj przegralem walke z komarami :P Niedlugo wroce i im sie nie dam</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="337877">
+        			<groundspeak:date>2011-06-04T08:20:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="21348">u810</groundspeak:finder>
+					<groundspeak:text encoded="False">Wedkarzy wiecej niz ryb, miejsce urokliwe. Dzieki.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="287959">
+        			<groundspeak:date>2011-03-06T22:47:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="4029">art_noise</groundspeak:finder>
+					<groundspeak:text encoded="False">Piekne miejsce. Na wiosne pewnie jeszcze piekniejsze. Nam udalo sie podjechac pod groble bo wszystkie szlabany po drodze byly otwarte. O dzieki wam antyekolodzy! :)Troche domaskowalismy kesza trawa, bo byl widoczny.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="283530">
+        			<groundspeak:date>2011-02-20T13:54:00Z</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder id="1486">miklobit</groundspeak:finder>
+					<groundspeak:text encoded="False">Wizyta przy okazji spaceru z Andy'm. Wymienilismu kilka drobiazgow, wrzucilem dwa geocoiny.</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="244179">
+        			<groundspeak:date>2010-10-03T17:55:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="18372">Piotrek_P</groundspeak:finder>
+					<groundspeak:text encoded="False">Znaleziona w niedzielne, sloneczne popoludnie. Mimo znajomosci terenu zaufalismy GPS'om i zrobilismy nadmiarowy spacerek, ktory chyba wyszedl&amp;nbsp;nam wszystkim na dobre (kotu tez) :-)
+
+In: otwieracz
+
+Out: muszla
+
+Za skrzyneczke dziekuja i pozdrawiaja:
+
+Piotrek_P
+
+Edyta &amp;amp; eMPecz81+tiger
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="244037">
+        			<groundspeak:date>2010-10-03T11:47:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="19777">MoCker</groundspeak:finder>
+					<groundspeak:text encoded="False">Niedzielny mglisty poranek. Tradycyjnie rowerowo. Bez wynmiany. Dzieki za skrzynke. 
+</groundspeak:text>
+				</groundspeak:log>
+
+
+				<groundspeak:log id="244031">
+        			<groundspeak:date>2010-10-02T11:24:00Z</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder id="9150">kasiasr</groundspeak:finder>
+					<groundspeak:text encoded="False">FTF - znaleziona w sobotnie sloneczne poludnie - okolica dosc nam znana, skrzynka podjeta w szybkim tempie ....
+
+pozdrawiamy: Kasia i Krzysiek
+</groundspeak:text>
+				</groundspeak:log>
+
+
+			</groundspeak:logs>
+			<groundspeak:travelbugs>
+			<groundspeak:travelbug id="9383" ref="GK24A7">
+		<groundspeak:name>Szczerbulec</groundspeak:name> 
+		</groundspeak:travelbug> 
+		<groundspeak:travelbug id="9419" ref="GK24CB">
+		<groundspeak:name>Wilk</groundspeak:name> 
+		</groundspeak:travelbug> 
+		
+			</groundspeak:travelbugs>
+		</groundspeak:cache>
+	</wpt>
+	
+</gpx>
